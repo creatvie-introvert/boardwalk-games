@@ -97,6 +97,16 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events table */
+#events-table {
+    font-size: 0.8rem;
+}
+
+.student-discount {
+    background-color: var(--highlight-color);
+    color: white;
+}
+
 /* Game Library page */
 
 #new-games .card,
